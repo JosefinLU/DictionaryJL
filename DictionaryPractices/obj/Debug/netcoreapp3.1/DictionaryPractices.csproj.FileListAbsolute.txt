@@ -1,0 +1,13 @@
+/Users/josefinlundquist/Projects/DictionaryPractices/DictionaryPractices/bin/Debug/netcoreapp3.1/DictionaryPractices.deps.json
+/Users/josefinlundquist/Projects/DictionaryPractices/DictionaryPractices/bin/Debug/netcoreapp3.1/DictionaryPractices.runtimeconfig.json
+/Users/josefinlundquist/Projects/DictionaryPractices/DictionaryPractices/bin/Debug/netcoreapp3.1/DictionaryPractices.runtimeconfig.dev.json
+/Users/josefinlundquist/Projects/DictionaryPractices/DictionaryPractices/bin/Debug/netcoreapp3.1/DictionaryPractices.dll
+/Users/josefinlundquist/Projects/DictionaryPractices/DictionaryPractices/bin/Debug/netcoreapp3.1/DictionaryPractices.pdb
+/Users/josefinlundquist/Projects/DictionaryPractices/DictionaryPractices/obj/Debug/netcoreapp3.1/DictionaryPractices.csproj.AssemblyReference.cache
+/Users/josefinlundquist/Projects/DictionaryPractices/DictionaryPractices/obj/Debug/netcoreapp3.1/DictionaryPractices.GeneratedMSBuildEditorConfig.editorconfig
+/Users/josefinlundquist/Projects/DictionaryPractices/DictionaryPractices/obj/Debug/netcoreapp3.1/DictionaryPractices.AssemblyInfoInputs.cache
+/Users/josefinlundquist/Projects/DictionaryPractices/DictionaryPractices/obj/Debug/netcoreapp3.1/DictionaryPractices.AssemblyInfo.cs
+/Users/josefinlundquist/Projects/DictionaryPractices/DictionaryPractices/obj/Debug/netcoreapp3.1/DictionaryPractices.csproj.CoreCompileInputs.cache
+/Users/josefinlundquist/Projects/DictionaryPractices/DictionaryPractices/obj/Debug/netcoreapp3.1/DictionaryPractices.dll
+/Users/josefinlundquist/Projects/DictionaryPractices/DictionaryPractices/obj/Debug/netcoreapp3.1/DictionaryPractices.pdb
+/Users/josefinlundquist/Projects/DictionaryPractices/DictionaryPractices/obj/Debug/netcoreapp3.1/DictionaryPractices.genruntimeconfig.cache
