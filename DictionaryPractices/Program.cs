@@ -23,8 +23,10 @@ namespace DictionaryPractices
             IDictionary<int, Employee> empInfoDictonary = new Dictionary<int, Employee>();
             foreach (var emp in employeesList)
             {
+                // To add all info of the employee related to the key
                 empInfoDictonary.Add(emp.EmpNumber, emp);
                 //Console.WriteLine($"{emp.EmpName} {emp.EmpRole}");
+                // Have method that override how to print emp
                 Console.WriteLine(emp);
             }
 
